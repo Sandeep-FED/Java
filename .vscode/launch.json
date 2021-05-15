@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Order",
+            "request": "launch",
+            "mainClass": "Order",
+            "projectName": "Java_8b7e874f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Car_color_finder",
+            "request": "launch",
+            "mainClass": "Car_color_finder",
+            "projectName": "Java_8b7e874f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pract_arrays",
+            "request": "launch",
+            "mainClass": "Pract_arrays",
+            "projectName": "Java_8b7e874f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scaneeer",
+            "request": "launch",
+            "mainClass": "Scaneeer",
+            "projectName": "Java_8b7e874f"
+        },
+        {
+            "type": "java",
+            "name": "Launch math_op",
+            "request": "launch",
+            "mainClass": "math_op",
+            "projectName": "Java_8b7e874f"
+        },
+        {
+            "type": "java",
+            "name": "Launch opera",
+            "request": "launch",
+            "mainClass": "opera",
+            "projectName": "Java_8b7e874f"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract_GPA_generator",
+            "request": "launch",
+            "mainClass": "pract_GPA_generator",
+            "projectName": "Java_8b7e874f"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract_if",
+            "request": "launch",
+            "mainClass": "pract_if",
+            "projectName": "Java_8b7e874f"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract_lists",
+            "request": "launch",
+            "mainClass": "pract_lists",
+            "projectName": "Java_8b7e874f"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract_loops",
+            "request": "launch",
+            "mainClass": "pract_loops",
+            "projectName": "Java_8b7e874f"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract_maps",
+            "request": "launch",
+            "mainClass": "pract_maps",
+            "projectName": "Java_8b7e874f"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract_test",
+            "request": "launch",
+            "mainClass": "pract_test",
+            "projectName": "Java_8b7e874f"
+        }
+    ]
+}
