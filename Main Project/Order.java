@@ -81,9 +81,8 @@ public class Order {
 
 
 
-                // else part to if the user entered no without drinks he get the food
+                // else part to if the user entered no without drinks he get
             }else { System.out.println("You have ordered" + ans2);
-            }
             System.out.println("Confirm you password: ");
                 pwdConfirm = sc.nextLine();
 
@@ -93,8 +92,7 @@ public class Order {
                     pwdConfirm = sc.nextLine(); // prompting the user to enter the pwd again
                 }
             }
-
-
+            }
 
 
 
